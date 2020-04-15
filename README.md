@@ -20,7 +20,7 @@ This App is developed on API 29. It works in any Android mobile device that is c
 
 On Home screen, user can click **PLAY A WORD GAME**, **GAME SETTINGS**, **VIEW WORD BANK**, **VIEW LETTER STATS** or **VIEW SCORE STATS** button.  
 
-![alt text](../.images/homeScreen.png "Home Screen")     
+![alt text](/.images/homeScreen.png "Home Screen")     
 
 ### 1.Play Game
 If **PLAY A WORD GAME** button is clicked, a user interface similar to the image below will be launched.
